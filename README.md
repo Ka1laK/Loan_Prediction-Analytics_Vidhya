@@ -1,7 +1,7 @@
 # Loan Prediction Analysis 📊
 
 Este repositorio contiene un análisis completo para la predicción de la aprobación de préstamos utilizando modelos de Machine Learning. Implementamos y comparamos varios modelos, incluyendo Regresión Logística, Árbol de Decisión y Random Forest, utilizando técnicas de validación cruzada y optimización de hiperparámetros.
-
+![logo](https://datahack-prod.s3.ap-south-1.amazonaws.com/__sized__/contest_cover/loanpre-thumbnail-1200x1200.png)
 ## Descripción del Proyecto
 
 El objetivo de este proyecto es predecir si un solicitante de préstamo será aprobado o no, basado en varias características del solicitante. Utilizamos un conjunto de datos preprocesado para entrenar y evaluar diferentes modelos de clasificación.
@@ -17,6 +17,7 @@ El objetivo de este proyecto es predecir si un solicitante de préstamo será ap
 - **Final Analysis**: Selección del mejor modelo y análisis detallado de los resultados.
 
 ## Resultados Principales
+![image](https://github.com/user-attachments/assets/f4da7073-108a-47dc-8a1c-a7cb4b8489ca)
 
 ### Modelos Evaluados
 
