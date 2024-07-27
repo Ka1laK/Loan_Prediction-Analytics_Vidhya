@@ -78,6 +78,18 @@ Para ejecutar este proyecto y replicar el análisis, sigue los siguientes pasos:
    ```bash
    git clone https://github.com/tu-usuario/Loan_Prediction.git
    ```
+2. **Navega al directorio del proyecto**:
+   ```bash
+   cd Loan_Prediction
+   ```
+3. **Instala las dependencias necesarias**:
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn
+   ```
+2. **Ejecuta el notebook**:
+   ```bash
+   jupyter notebook Loan_Prediction.ipynb
+   ```
 
 
 
